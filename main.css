@@ -1,0 +1,219 @@
+/*
+header {
+  background-color: #4267b2;
+  height: 30px;
+}
+footer {
+  background-color: rgba(0,0,0,0.87);
+  height: 30px;
+}
+*//*old css*/
+#wrapper {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+#main,
+#menu,
+#sidebar {
+  height: 600px;
+}
+
+#main { background-color: orange; }
+
+#menu { background-color: pink; }
+
+#main,
+#menu,
+#sidebar {
+  background-color: #e9ebee;
+}
+
+
+
+#header {
+    background-color: #4267b2;
+    color: white;
+}
+#brand-icon{
+	height:25px !important;
+	width:25px; 
+
+}
+.bage{
+	    margin-left: 235px;
+    margin-top: -45px;
+}
+
+
+#white-text {
+  color: white;
+}
+.white-text {
+  color: white !important;
+}
+#header ul .glyphicon {
+    font-size: 20px;
+}
+.pull-right {
+    float: right!important;
+}
+.btn{
+	margin-left:-44px;
+	margin-bottom:2px;
+	position: relative;
+	border-radius:4px;
+	border:0;
+}
+#scr {
+	width:400px;
+}
+.img{
+	height:24px;
+	width:24px;
+	
+
+	
+}
+.list-heading {
+    padding: 20px 15px 0 15px;
+}
+.color{
+color: black;
+}
+.panel-body .glyphicon {
+    margin-left: 10px;
+    margin-right: 4px;
+}
+.text-post {
+    margin-bottom: 15px;
+    margin-top: 0;
+}
+.image-post {
+    margin-bottom: 15px;
+}
+#main {
+    overflow: auto;
+}
+#main::-webkit-scrollbar {
+    display: none;
+}
+.font{
+	font-size:12px;
+	height:28px;
+	
+}
+.pixil{
+	height:40px;
+	width:40px;
+	    margin-left: 15px;
+		    margin-bottom: 17px;
+}
+
+.mar{
+	    margin-left:10px;
+}
+p {
+	margin: 0 0 10px;
+}
+.comment {
+    margin: 0;
+}
+.text{
+	font-size:12px;
+	color:blue;
+	font-weight:bold;
+}
+
+.res{
+	margin-top:15px;
+	margin-bottom:15px;
+}
+
+.suggestion{
+	margin-top:-250px;
+
+}
+
+.suggested-page{
+	font-size:13px;
+	display:block;
+	line-height:13px;
+	text-transform: none;
+	float:right;
+	margin-top:-23px;
+}
+
+.cloud-img{
+	height:130px;
+	width:100%;
+}
+.size{
+	height:17px;
+	width:18px;
+	margin:-10px;
+	border-radius:30px;
+	
+	
+}
+.back{
+	margin-left: 60px
+}
+.button-1{
+	border-radius:17px;
+	margin-left:15px;
+}
+.foot{
+	margin-top:50px;
+	padding:5px;
+}
+.emo{
+	height:20px;
+	width:20px;
+	margin:-10px;
+	border-radius:30px;
+	margin-left:10px;
+}
+.change{
+	margin-left:17px;
+}
+.item{
+	padding-bottom:55px;
+	margin-bottom:32px
+}
+.top{
+	margin-top:-20px;
+}
+.new{
+	height:20px;
+	width:20px;
+}
+.vai{
+	margin-left:15px;
+}
+.heart{
+	height:25px;
+	width:25px;
+	border-radius:20px;
+}
+.like{
+	margin-right:45px;
+}
+.panel-body{
+	padding:5px;
+}
+#red{
+	margin-top: -11px;
+    float: right;
+    margin-right: 330px;
+
+}
+#panda{
+	margin-right:360px;
+	margin-top: -11px;
+    float: right;
+   
+}
+.embed{
+	
+}
